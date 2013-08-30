@@ -31,8 +31,11 @@ class TestController extends TestLibController
 			case "test-Prueba":
 				return $this->_webPruebaAction();
 				break;
+			case "test-Error":
+				return $this->_webErrorAction();
+				break;
 			default:
-				return $this->_webPruebaAction();
+			return $this->_webPruebaAction();
 		}
 	}
 
@@ -51,4 +54,12 @@ class TestController extends TestLibController
 		return $this->_view->render('holaMundo');
 	}
 
+	private function _webErrorAction()
+	{
+		$this->_view->setAttribute("textoTituloPagina", 'Error 404 - Pagina no encontrada');
+		$this->_view->setAttribute("textoError", '<h1>No encontrada<br /><span>:(</span></h1><p>Lo siento, pero la p&aacute;gina que intentas ver, no existe.</p><p>Puede ser producto de:</p><ul><li>una direcci&oacute;n mal escrita</li><li>un enlace fuera de fecha (caducado)</li></ul>');
+		$this->_view->setAttribute("path", $this->_view->getPath());
+		return $this->_view->renderError('error',404);
+	}	
+	
 }
