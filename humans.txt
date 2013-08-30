@@ -1,0 +1,46 @@
+
+/* GRUPO */
+Programador sin tiempo y enojon: Fabian Riveros
+Website: http://www.inunorivneo.cl
+Email: contacto en inunorivneo.cl    
+Pais: Chile
+
+Mantenedora que sube razas tarde y nunca: Alexandra Caneo
+Website: http://www.inunorivneo.cl
+Email: contacto en inunorivneo.cl    
+Pais: Chile
+
+Diseñador que no ha diseñado nada salvo el logo: Alvaro Riveros
+Website: http://www.alvaroriveros.cl
+Email: contacto en alvaroriveros.cl    
+Pais: Chile
+
+/* SITIO */
+Ultima actualizacion de este archivo: 2011/06/01
+Estandars: HTML5, CSS3
+Componentes: jQuery
+
+
+
+                           MMD
+                  ~MMMMM8M8MMM
+               MMIIIIIIID8MMMM
+             D$IIIIIIIDDDDMMMM
+            MIIIIIIIIIIDDMMMNDMM
+           MIIIIIII8DDD$8MZIIM88D8MM
+        DMMMIZOZIIDDD8D8DDIIIM8DDDDDDM$
+       MMMMMMM8D8D8D88DD8D8DOIMD8DD8DDDDM~           MM8DDDD8MMI
+        MMMMMMMMMM8DDD8DD88DD$MDDDDDD88888M         MDDDDD8DD8DDN8
+         M8MMMMM8DDD888D8D8D8IINDD8DDDDDDDDDMN    ID8DDNMMDDDD8DDDM
+  MMMMM    MNDZ8DDD8DDD8DD IMM$DDD88DDDDDDD888M   MDMM     MD8DD888M
+MM  8  M     MIIDDDDD  8DDDIMIIMMN$+  =MM8DDD8DDM ND         M88DDDD~
+M?     MM     MIID8DI?8I8D8IIID          MDD8DDDDMN          M8888D8M
+MM     MMM     MOIIIIMMMMI88IIM   OMM    MMMZMM8D8M          M88DD8DM
+ 8M   MZZNMMMMMMDMIIIIIIIIDDD8IM  8MMM   MMZZZMN8DDM       OM8D8DMD8M  MMMMM
+ 8M   MZZZOZZZZMZZMMMMOIII8DMM8N?       MMMDZMMZMMMZMMZZMZZNMMMM8ZZMMMMZZZZZMM
+ 8M   MZZZMMZZZMDZMMNZZMIIIMMMIM         MMZZNMZZMZZZMZZZZZZZMZZZMOOZMZZMMZZZM
+ MM   MMZMMMZZZMZZMMMZZMMM$MMMMO   MMM    MZZMMZZMZOMMZZMMZZZMZOZZZZZMZZMMDZZM$
+MO     MMMMMZZMMZOZMZZZMM   D8 MO  MDM    MZOMMZZZZZMNZZMMZZZMZZZMMZZM8ZZZZOZM
+MM     MMMMMZZMMMZZZMZZMM M M  M   M MM  7MZZMNMZZZMMMZZMMZZZMMZZZO8MMMMMMMMM
+ MMMMMMM   MMM? ?MMM MM MMMMMMMMMMM   MMMM MM7  MMM  MMMM MMM  MMMMO
+                Inu no Rivneo - http://www.inunorivneo.cl

@@ -1,0 +1,3 @@
+http://www.mysql.com/products/workbench/
+http://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-6.0.6-win32-noinstall.zip
+

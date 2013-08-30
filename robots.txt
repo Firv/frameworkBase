@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /library/
+Disallow: /webapp/web/controllers/
+Disallow: /webapp/web/models/
+Disallow: /webapp/web/views/admin/
+
